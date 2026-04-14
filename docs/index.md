@@ -1,17 +1,13 @@
-# Oferta Académica
+# Oferta Académica UTPL 🎓
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido al portal oficial de carreras de la **Universidad Técnica Particular de Loja**. Selecciona una facultad para explorar:
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Icono | Facultad | Enlace |
+| :---: | :--- | :--- |
+| 🏗️ | **Ingenierías y Arquitectura** | [Ver carreras →](facultad1.md) |
+| ⚖️ | **Ciencias Jurídicas** | [Ver carreras →](facultad2.md) |
+| 🌱 | **Ciencias Exactas y Naturales** | [Ver carreras →](facultad3.md) |
+| 🏥 | **Ciencias de la Salud** | [Ver carreras →](facultad4.md) |
+| 🎨 | **Ciencias Sociales y Humanidades** | [Ver carreras →](facultad5.md) |
+| 💼 | **Ciencias Económicas** | [Ver carreras →](facultad6.md) |
+| 🍎 | **Educación** | [Ver carreras →](facultad7.md) |
